@@ -1,3 +1,8 @@
+This extensions can count page visitors and calculate reading time. It can be use in blog pages
+Examples:
+![image](https://github.com/user-attachments/assets/8382f82a-2952-467c-8cac-c11a072eba34)
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
